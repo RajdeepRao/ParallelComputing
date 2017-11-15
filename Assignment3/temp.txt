@@ -1,0 +1,246 @@
+commit d1a1b07962fae8db5a5cf3795bad2d1a932afb52
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Fri Oct 13 19:58:53 2017 -0400
+
+    Merge new
+
+commit 5e1619921b4e3f9d03446ffdd24566da22652f19
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Fri Oct 13 17:53:56 2017 -0400
+
+    merge plots
+
+commit 5da7760dcba4b8d1b8832002e09a0860ca6f417b
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Fri Oct 13 17:53:06 2017 -0400
+
+    New Bench Numint
+
+commit a03a2edb04dad5820a72531f5e6ac6f2f1b3dd76
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Fri Oct 13 17:51:30 2017 -0400
+
+    reduce plots
+
+commit dc4306e8f10317048c0855ed9f645c815a2012af
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Fri Oct 13 14:36:54 2017 -0400
+
+    Merge
+
+commit 647655f31087162d64750fdf3ed5fbcf71cfadd8
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Thu Oct 12 19:42:49 2017 -0400
+
+    mergesort atom code
+
+commit 84257514d32e798fcacb1795d833c27f74eb0488
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Thu Oct 12 19:04:14 2017 -0400
+
+    NumInt plots
+
+commit e731cdc6022c2a9949a3f7f32ca2c7ac8d4f384e
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Thu Oct 12 17:49:25 2017 -0400
+
+    New plot
+
+commit b22b5100b79e4a7195c83b7bce419125235e823a
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Thu Oct 12 17:32:32 2017 -0400
+
+    New plots
+
+commit fdaa1d59e91a213f7ff38991b5183ef40229dddc
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Thu Oct 12 17:19:00 2017 -0400
+
+    New .tgz file
+
+commit 390300e7f7ed24a24927cbe0a9e02c6dceda7017
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 8 23:25:33 2017 -0400
+
+    Prefix plots
+
+commit a68f4032d98ef24ced664547f6a46d466ff6c37c
+Merge: f02ac74 027abc5
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Sun Oct 8 22:36:51 2017 -0400
+
+    New Files
+
+commit f02ac74deb618167213c55cf29fcbdbb5efd66b1
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Sun Oct 8 22:35:47 2017 -0400
+
+    New files
+
+commit 027abc599e798cee238923ebaaa23c1ba8ceed7c
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 8 17:55:33 2017 -0400
+
+    Prefix sum working but not passing the test
+
+commit 322f74e8e80ed1fbc856bc535a48187ede886631
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sat Oct 7 12:55:59 2017 -0400
+
+    Reduce plots
+
+commit 6a1eba855b0cfcaef8e76b32201e8711c0528e36
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Sat Oct 7 10:13:37 2017 -0400
+
+    Initial commit
+
+commit fe5617d7dcc242b250a0ff9dedff027a7d8a5500
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Thu Oct 5 10:34:09 2017 -0400
+
+    New Plots
+
+commit dea5a02498bf8d374b8fd570ed37fa42801713ab
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Thu Oct 5 09:58:02 2017 -0400
+
+    PDF
+
+commit b88712ddc25084d33de0a4218e276903616555b5
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Wed Oct 4 22:24:28 2017 -0400
+
+    Fix file
+
+commit 08b94e62429cf23f03e6d9ab73546ea52ddd593a
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Wed Oct 4 19:25:44 2017 -0400
+
+    New dynamic code with granularity check
+
+commit c01fb226b8a2ed4e1e5df1c0feb030cee6091b8b
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Wed Oct 4 19:21:38 2017 -0400
+
+    new Bench
+
+commit a1900bfafdd7f6f8c2e928706f4cf7f056171466
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Wed Oct 4 17:49:12 2017 -0400
+
+    Makeshift dynamic plot
+
+commit 7a5ef374275220f5787a0e50ad074f5bbacaaeb3
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Wed Oct 4 15:10:11 2017 -0400
+
+    Revised cpp file
+
+commit b9fcefeb676423001f2fe4016624a4b84d3457ec
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Oct 3 08:20:34 2017 -0400
+
+    New Plots static
+
+commit edbc68d019fc0dcc31b413900f5e344e539ff9bc
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Mon Oct 2 18:58:29 2017 -0400
+
+    Complete dynamic scheduler - v1.0
+
+commit 043a2dc4dd6b599e49093b8aef7d0b6dfacb5d9a
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 1 21:31:07 2017 -0400
+
+    Upload plots
+
+commit 394cea57f5108a3a26783b45a11bad5b4a4271f8
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 1 15:07:53 2017 -0400
+
+    Renamed evaluate_iteration()
+
+commit d7c5900325d7eca7a2e1925c950cf3f5c69f1a29
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 1 15:02:14 2017 -0400
+
+    Static Scheduler complete - v1.0
+
+commit aa4c5099c2c9df4fd2e4939536cbbc8815e20807
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 1 10:35:56 2017 -0400
+
+    Fixed stupid errors, but now the problem looks like the shared resouce is the function. Looking into it. Dies with segmentation fault
+
+commit ef5b194d748fe8fb1001eb8c1351e4a46fcd2784
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 1 02:17:02 2017 -0400
+
+    Incorrectly accessed struct elements and a lot of otehr such errors when trying to incorporate into evaluate code
+
+commit 5d4f925484b7cd6d2607dc4c161669aeac6c97ad
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Sun Oct 1 01:35:37 2017 -0400
+
+    Successfull send params from pthread_Create to the function it's calling (POC)
+
+commit 18da00b14a21e2a301e8c9cb88428766491a3d18
+Author: rajdeeprao <rajdeeprrao94@gmail.com>
+Date:   Sat Sep 30 18:26:42 2017 -0400
+
+    Commit basic files of assignment 2
+
+commit c04a4e62b994ada0d50b1a75b8d667b42732bef4
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Wed Sep 13 19:14:26 2017 -0400
+
+    New outputs
+
+commit 5e00b2297cfa7ebcd3bccb56473593e424423d15
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Sep 12 08:20:42 2017 -0400
+
+    bench outputs
+
+commit 2bcc1737b83bfe3055c3bfdf60954cac472185d2
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Sep 12 02:08:12 2017 -0400
+
+    Run make bench
+
+commit 6310250d6d096de3de9c8c68b80cf28d98f8b7e8
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Sep 12 02:01:47 2017 -0400
+
+    Remove build files from git
+
+commit d049619cac67799b1c8c38913fb118c10d679cab
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Sep 12 02:00:12 2017 -0400
+
+    Update gitignore
+
+commit ee5868f12aa4c9926b6eeddbb7da250b7af8a618
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Sep 12 01:54:48 2017 -0400
+
+    Solve for time remaining
+
+commit ce11afa2f4be305b85c8a77b972c3ed9b0f6aaa1
+Author: Rajdeep Raghunath Rao <rrao6@mba-i1.uncc.edu>
+Date:   Tue Sep 12 00:40:39 2017 -0400
+
+    Half-baked. Done creating a function that has to do the actual computation. Todo: Take appropriate input as a function arg and Compute
+
+commit 81838cd7090d6549fcdf9bb4fb2028ed322b4954
+Author: rajdeep <rajdrao@localhost.localdomain>
+Date:   Mon Sep 11 19:23:19 2017 -0400
+
+    Base Project Structure
+
+commit 0d55e8237590d2c1cf684939a9aaa399bccd4e0b
+Author: rajdeep <rajdrao@localhost.localdomain>
+Date:   Mon Sep 11 19:18:59 2017 -0400
+
+    Initial Commit
