@@ -1,0 +1,7 @@
+#!/bin/sh
+
+NS="18000 72000 144000"
+
+PROCS="9 16 25"
+
+RESULTDIR=result/
